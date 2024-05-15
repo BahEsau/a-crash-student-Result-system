@@ -67,7 +67,7 @@ On your .env file, locate this block of code below.
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=subnetweb
+DB_DATABASE=result_sys
 DB_USERNAME=root
 DB_PASSWORD=
 The block of code above represents your Database connection and subnetweb is my database name, which you can create your database name to be something else.
